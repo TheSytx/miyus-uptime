@@ -28,5 +28,4 @@ Verileriniz, erişimi kısıtlanmış veritabanlarında şifreleme yöntemleriyl
 ## 3) Veri Silme
 Verilerinizin silinmesi talebinde bulunma hakkınız bulunmaktadır. Verilerinizin tamamen silinmesi için miyusuptime@gmail.com adresine elektronik posta göndererek talebinizi iletebilirsiniz. Talebiniz, alındıktan sonra 30 gün içerisinde işleme alınacaktır.
 
-### Miyus Uptime bu maddeleri değiştirme/düzenleme hakkını saklı tutar.
-
+### Miyus Uptime Geliştiricileri bu maddeleri değiştirme/düzenleme hakkını saklı tutar.
