@@ -1,10 +1,10 @@
 # Hizmet Şartları
 
-Bu Hizmet Şartları ("Şartlar", "Şartlar ve Koşullar"), "Miyus Uptime" (Discord ID: "977247733234671676") olarak bilinen Discord botunun kullanım koşullarını açıklamak ve açıkça belirtmek üzere oluşturulmuştur. İşbu "Miyus Uptime" (Discord ID: "977247733234671676") olarak bilinen Discord botuna ilişkin Hizmet Koşulları, yayınlanmakla yürürlüğe girer. Değişiklik yapma hakkı, tek taraflı olarak Miyus Uptime Geliştiricilerine aittir. Güncel olarak paylaşılacak olan bu değişiklikleri, tüm kullanıcılarımız baştan kabul etmiş sayılır.
+Bu Hizmet Şartları ("Şartlar", "Şartlar ve Koşullar"), "Uptime Boat" (Discord ID: "977247733234671676") olarak bilinen Discord botunun kullanım koşullarını açıklamak ve açıkça belirtmek üzere oluşturulmuştur. İşbu "Uptime Boat" (Discord ID: "977247733234671676") olarak bilinen Discord botuna ilişkin Hizmet Koşulları, yayınlanmakla yürürlüğe girer. Değişiklik yapma hakkı, tek taraflı olarak Uptime Boat Geliştiricilerine aittir. Güncel olarak paylaşılacak olan bu değişiklikleri, tüm kullanıcılarımız baştan kabul etmiş sayılır.
 
 ## Tanımlar
 Bu bölümde geçen terimlerin anlamları:
-- **Bot:** "Miyus Uptime" olarak bilinen Discord botu. (Miyus Uptime#7842) (Discord ID: "977247733234671676")
+- **Bot:** "Uptime Boat" olarak bilinen Discord botu. (Uptime Boat#7842) (Discord ID: "977247733234671676")
 - **Hizmet:** Discord botu üzerinden sunulan her türlü işlevsellik ve hizmet.
 - **Kullanıcı:** Discord üzerinden botu kullanan herhangi bir kullanıcı.
 - **Sunucu:** Botun kullanıldığı Discord sunucusu.
@@ -49,6 +49,6 @@ Bu bölümde geçen terimlerin anlamları:
 ## Sonuç
 - Bu hizmet şartları, botun güvenli, adil ve sorunsuz bir şekilde kullanılmasını sağlamak amacıyla oluşturulmuştur. Kullanıcılar, Hizmetimizi kullanarak bu şartları kabul etmiş sayılırlar. Herhangi bir sorunuz veya talebiniz varsa, hylusbot@gmail.com adresinden bize ulaşabilirsiniz.
 
-**Son Düzenlenme Tarihi:** 09/10/2024
+**Son Düzenlenme Tarihi:** 24/10/2024
 
 ### Kullanıcılar, botu kullanarak bu şartları kabul etmiş sayılırlar.
