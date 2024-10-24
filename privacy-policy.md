@@ -1,6 +1,6 @@
 # Gizlilik Politikası
 
-Bu Gizlilik Politikası, "Miyus Uptime" (Discord ID: "977247733234671676") olarak bilinen Discord botunun kullanımı sırasında toplanan ve saklanan verilerinizi açıkça tarafınıza bildirilmesini, topladığımız verilerin ne şekilde toplandığını ve kullanıldığını açıklamak ve açıkça belirtmek üzere oluşturulmuştur.
+Bu Gizlilik Politikası, "Uptime Boat" (Discord ID: "977247733234671676") olarak bilinen Discord botunun kullanımı sırasında toplanan ve saklanan verilerinizi açıkça tarafınıza bildirilmesini, topladığımız verilerin ne şekilde toplandığını ve kullanıldığını açıklamak ve açıkça belirtmek üzere oluşturulmuştur.
 
 ## Tanımlar
 - **Kullanıcı:** Discord üzerinden botu kullanan herhangi bir kullanıcı.
