@@ -36,6 +36,6 @@ Verilerinizin silinmesi talebinde bulunma hakkınız bulunmaktadır. Verileriniz
 ## 6) Politikada Değişiklikler
 Tamamen kendi takdirimize bağlı olarak, bu Gizlilik Politikasını herhangi bir zamanda değiştirme veya değiştirme hakkımızı saklı tutarız. Bu Gizlilik Politikasın da yapılan değişiklikler, revize edilen Gizlilik Politikasının yayınlandığı tarih ve saatten itibaren geçerli olacaktır. Herhangi bir değişiklikten haberdar olmanız için Gizlilik Politikamızı düzenli olarak gözden geçirmenizi öneririz.
 
-**Son Düzenlenme Tarihi:** 10/10/2024
+**Son Düzenlenme Tarihi:** 24/10/2024
 
 ### Bu gizlilik politikası, Discord botumuzun kullanımı sırasında toplanan bilgileri açıklar. Kullanıcılar, botumuzu kullanarak bu politikayı kabul etmiş sayılırlar.
